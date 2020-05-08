@@ -1,10 +1,12 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜¨—ßüÿÿÿÿ8ò­Ğ».
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ËœÂ¨â€”ÃŸÃ¼Ã¿Ã¿Ã¿Ã¿8Ã²Â­ÃÂ»Å¾.
 J
-java:S1172"(Remove this unused method parameter "s".(ÂÄçàøÿÿÿÿ8ò­Ğ».
+java:S1172"(Remove this unused method parameter "i".(ÃœÂ¡Â©â€¦Ã¹Ã¿Ã¿Ã¿Ã¿8Ã²Â­ÃÂ»Å¾.
 Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ò­Ğ».
+java:S1197"8Move the array designator from the variable to the type.(Â¡Ã¾ÃÃ–Ã¸Ã¿Ã¿Ã¿Ã¿8Ã²Â­ÃÂ»Å¾.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ã€Ã”Ã˜â€ 8Ã²Â­ÃÂ»Å¾.
 E
-java:S1172"(Remove this unused method parameter "o".(ÀøÅÚ8ò­Ğ».
-U	java:S106	"9Replace this use of System.out or System.err by a logger.(­…¶ƒ8ò­Ğ».
-]	java:S125"<This block of commented-out lines of code should be removed.(ÑóŒıÿÿÿÿ8äâÃç.
+java:S1172"(Remove this unused method parameter "o".(Ã€Ã¸Ã…Ãš8Ã²Â­ÃÂ»Å¾.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Â­â€¦Â¶Æ’8Ã²Â­ÃÂ»Å¾.
+
