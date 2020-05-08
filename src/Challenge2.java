@@ -13,9 +13,9 @@ public class Challenge2 {
         System.out.println("Object");
     }
 
-    public static void gfg(Integer i) {
-        System.out.println("Integer");
-    }
+    //public static void gfg(Integer i) {
+    //    System.out.println("Integer");
+    //}
 
     public static void main(String args[]) {
         gfg(null);

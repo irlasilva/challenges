@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æäõ¨8ã¬“ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢ê§şÿÿÿÿ8ã¬“ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Çµß§úÿÿÿÿ8…ÉÇç.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8îØĞæ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’¤úÍ8ã¬“ç.
+=
+java:S2129" Remove this "String" constructor(¥Ûƒß8Ç¤Üæ.
+U
+java:S4973	"9Use the "equals" method if value comparison was intended.(ùä–_8ã¬“ç.
