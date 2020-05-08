@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f269f0f4-7527-4513-9b9b-2ae3132667e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33a3bae2b653a61711c0c663ade58d6fc6048a50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/877dffa86f53ed62a5699a0ab8d32b680ff6e588" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d97fdaeb0c6bc8af79cfe0b62b41ea595aa2eaa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Challenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge2.java" afterDir="false" />
-    </list>
+    <list default="true" id="f269f0f4-7527-4513-9b9b-2ae3132667e8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Challenge3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -37,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Challenge2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -193,12 +182,12 @@
       <updated>1588684285617</updated>
       <workItem from="1588684292806" duration="627000" />
       <workItem from="1588707358877" duration="2911000" />
-      <workItem from="1588967026772" duration="3249000" />
+      <workItem from="1588967026772" duration="3895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9060000" />
+    <option name="totallyTimeSpent" value="9706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -261,16 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Challenge3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -280,6 +259,16 @@
             <element signature="e#442#443#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
             <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#604#0" expanded="true" />
           </folding>
         </state>
       </provider>
