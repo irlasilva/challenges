@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f269f0f4-7527-4513-9b9b-2ae3132667e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33a3bae2b653a61711c0c663ade58d6fc6048a50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/877dffa86f53ed62a5699a0ab8d32b680ff6e588" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9d97fdaeb0c6bc8af79cfe0b62b41ea595aa2eaa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/challenges/Challenge3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Challenge3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Challenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Challenge2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Challenge3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Challenge2.java">
+        <entry file="file://$PROJECT_DIR$/src/Challenge4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -70,6 +43,7 @@
         <option value="$PROJECT_DIR$/src/Challenge1.java" />
         <option value="$PROJECT_DIR$/src/Challenge2.java" />
         <option value="$PROJECT_DIR$/src/Challenge3.java" />
+        <option value="$PROJECT_DIR$/src/Challenge4.java" />
       </list>
     </option>
   </component>
@@ -87,6 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,7 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Challenge3">
+  <component name="RunManager" selected="Application.Challenge4">
     <configuration name="Challenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Challenge1" />
       <module name="challenges" />
@@ -162,6 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Challenge4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge4" />
+      <module name="challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="challenges" />
@@ -174,6 +155,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Challenge4" />
         <item itemvalue="Application.Challenge3" />
         <item itemvalue="Application.Challenge2" />
         <item itemvalue="Application.Challenge1" />
@@ -198,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9060000" />
+    <option name="totallyTimeSpent" value="9374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -210,8 +192,8 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" weight="0.3295302" />
-      <window_info id="Structure" order="6" sideWeight="0.15611814" side_tool="true" visible="true" weight="0.13557047" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.84388185" visible="true" weight="0.13557047" />
+      <window_info id="Structure" order="6" sideWeight="0.16244726" side_tool="true" visible="true" weight="0.16912752" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.8375527" visible="true" weight="0.16912752" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" />
@@ -221,7 +203,7 @@
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -263,11 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Challenge3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#604#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -281,6 +260,13 @@
             <element signature="e#482#483#0" expanded="true" />
             <element signature="e#526#527#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Challenge4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
